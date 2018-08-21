@@ -1,4 +1,7 @@
-/build_dir
+/build_dir/target-mipsel_24kc_musl/root*
+/build_dir/target-mipsel_24kc_musl/linux-ramips_mt7620/tmp
+/build_dir/target-mipsel_24kc_musl/linux-ramips_mt7620/*initramfs*
+/build_dir/target-mipsel_24kc_musl/linux-ramips_mt7620/*squashfs*
 /bin
 /dl
 *.sig
@@ -8,5 +11,4 @@ packages/Packages.gz
 /tmp
 /staging_dir
 /files
-/pack_up
 /glinet
